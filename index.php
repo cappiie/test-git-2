@@ -8,5 +8,6 @@
 		<input type="text" name="nom" />
 		<input type="submit" name="OK" />
 	</form>
+	<p>Info : Bonjour !</p>
 </body>
 </html>
