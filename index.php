@@ -4,6 +4,9 @@
 <head>
 <body>
 	Hello World
-
+	<form method="post" action="">
+		<input type="text" name="nom" />
+		<input type="submit" name="OK" />
+	</form>
 </body>
 </html>
